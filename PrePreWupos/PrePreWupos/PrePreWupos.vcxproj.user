@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <TestCertificate>CN="WDKTestCert Makssson,133160447664376921" | ED7916F0F7509C31E162565331BA37B7D5EBAC7E</TestCertificate>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <TestCertificate>CN="WDKTestCert Makssson,133160453138281551" | 4FF7B3593D9A020282FEFE4F7DD698AE907EB4A3</TestCertificate>
+  </PropertyGroup>
+</Project>
